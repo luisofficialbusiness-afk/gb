@@ -622,7 +622,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-    const contentFetchingProtocolExpectedOutput = "𝙼𝚊𝚍e 𝚋𝚢 N3xtT1me & kozyrex!";
+    const contentFetchingProtocolExpectedOutput = "𝙼𝚊𝚍e 𝚋𝚢 N3xtT1me!";
     const contentFetchingProtocolElements = document.querySelectorAll('.Xt7Lm9Kp3R8f, #h2Dv8e46q');
 
     // Making sure fetching protocols are up to date
@@ -631,7 +631,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function contentFetchingProtocolValidation2(contentFetchingProtocolInput) {
-        const contentFetchingProtocolRegex = /^𝙼𝚊𝚍e 𝚋𝚢 N3xtT1me & kozyrex!$/;
+        const contentFetchingProtocolRegex = /^𝙼𝚊𝚍e 𝚋𝚢 N3xtT1me!$/;
         return contentFetchingProtocolRegex.test(contentFetchingProtocolInput.textContent.trim());
     }
 
