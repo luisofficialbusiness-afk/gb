@@ -108,7 +108,7 @@ function createCenterSitechecker() {
                 <div class="nautilus-icon">
                     <i class="fa-solid fa-fish"></i>
                 </div>
-                <h2>Announcing NautilusOS!!</h2>
+                <h2>Announcing GOMROM Browser!!</h2>
                 <p id="sitechecker-center-text">Hey there! N3xtT1me speaking! I'm proud to announce the v.1 of GOMROM Browser. This is a beta version, if their is any problems, dm me. Thank you for using GOMROM Browser.</p>
                 <div class="sitechecker-button-container">
                     <button class="sitechecker-close">Maybe later</button>
