@@ -112,7 +112,7 @@ function createCenterSitechecker() {
                 <p id="sitechecker-center-text">Hey there! N3xtT1me speaking! I'm proud to announce the v.1 of GOMROM Browser. This is a beta version, if their is any problems, dm me. Thank you for using GOMROM Browser.</p>
                 <div class="sitechecker-button-container">
                     <button class="sitechecker-close">Maybe later</button>
-                    <button class="sitechecker-visit">Take me there!</button>
+                    <button class="sitechecker-visit">Go to the GOMROM discord server!</button>
                 </div>
             `;
 
