@@ -794,8 +794,8 @@ const tabs = [{
 </div><div class="top-right-boxaa" title="Click here to visit the Helios GitHub page!">
   <p><i class="fa-brands fa-github"></i></p>
 </div>
-        <h23>Helios</h23>
-        <h21>𝚟𝟷.𝟿.𝟶</h21>
+        <h23>GOMROM Browser</h23>
+        <h21>𝚟𝟷.0</h21>
         <div class="search-baraa">
           <div class="search-containeraa">
   <div class="search-engine-dropdownaa" onclick="toggleDropdown(${currentTabIndex})">
