@@ -109,7 +109,7 @@ function createCenterSitechecker() {
                     <i class="fa-solid fa-fish"></i>
                 </div>
                 <h2>Announcing NautilusOS!!</h2>
-                <p id="sitechecker-center-text">Hey there! dinguschan speaking! I'm excited to introduce the brand-new <strong>𝘕𝘢𝘶𝘵𝘪𝘭𝘶𝘴𝘖𝘚</strong> - a fully functional web operating system developed alongside x8rr and lanefiedler731-gif. Experience games, apps, themes, cloaking, settings, and 3 whole proxy browsers built right in (including Helios, if you'd ever wanna use it lol), all in your browser! Check it out now!</p>
+                <p id="sitechecker-center-text">Hey there! N3xtT1me speaking! I'm excited to introduce the brand-new <strong>𝘕𝘢𝘶𝘵𝘪𝘭𝘶𝘴𝘖𝘚</strong> - a fully functional web operating system developed alongside x8rr and lanefiedler731-gif. Experience games, apps, themes, cloaking, settings, and 3 whole proxy browsers built right in (including Helios, if you'd ever wanna use it lol), all in your browser! Check it out now!</p>
                 <div class="sitechecker-button-container">
                     <button class="sitechecker-close">Maybe later</button>
                     <button class="sitechecker-visit">Take me there!</button>
@@ -376,7 +376,7 @@ function getHeliosApiKey() {
 
 const heliosSystemMessage = {
   role: "system",
-  content: `You are Helios AI, an advanced AI assistant designed to be helpful, knowledgeable, and adaptable. You were made by dinguschan.`
+  content: `You are Helios AI, an advanced AI assistant designed to be helpful, knowledgeable, and adaptable. You were made by N3xtT1me.`
 };
 
 const chatbotToggler = document.querySelector(".wrench-buttonaa");
@@ -622,7 +622,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-    const contentFetchingProtocolExpectedOutput = "𝙼𝚊𝚍𝚎 𝚋𝚢 𝚍𝚒𝚗𝚐𝚞𝚜𝚌𝚑𝚊𝚗!";
+    const contentFetchingProtocolExpectedOutput = "𝙼𝚊𝚍𝚎 𝚋𝚢 N3xtT1me!";
     const contentFetchingProtocolElements = document.querySelectorAll('.Xt7Lm9Kp3R8f, #h2Dv8e46q');
 
     // Making sure fetching protocols are up to date
@@ -631,7 +631,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function contentFetchingProtocolValidation2(contentFetchingProtocolInput) {
-        const contentFetchingProtocolRegex = /^𝙼𝚊𝚍𝚎 𝚋𝚢 𝚍𝚒𝚗𝚐𝚞𝚜𝚌𝚑𝚊𝚗!$/;
+        const contentFetchingProtocolRegex = /^𝙼𝚊𝚍𝚎 𝚋𝚢 N3xtT1me!$/;
         return contentFetchingProtocolRegex.test(contentFetchingProtocolInput.textContent.trim());
     }
 
@@ -790,7 +790,7 @@ let currentTabIndex = 0;
 const tabs = [{
     url: 'helios://start',
     content: `<div class="Xt7Lm9Kp3R8f">
-  <p>𝙼𝚊𝚍𝚎 𝚋𝚢 𝚍𝚒𝚗𝚐𝚞𝚜𝚌𝚑𝚊𝚗!</p>
+  <p>𝙼𝚊𝚍𝚎 𝚋𝚢 N3xtT1me!</p>
 </div><div class="top-right-boxaa" title="Click here to visit the Helios GitHub page!">
   <p><i class="fa-brands fa-github"></i></p>
 </div>
@@ -920,7 +920,7 @@ function updateTabContent(url, content, tab) {
 
     if (url === 'helios://start') {
         content.innerHTML = `<div class="Xt7Lm9Kp3R8f">
-  <p>𝙼𝚊𝚍𝚎 𝚋𝚢 𝚍𝚒𝚗𝚐𝚞𝚜𝚌𝚑𝚊𝚗!</p>
+  <p>𝙼𝚊𝚍𝚎 𝚋𝚢 N3xtT1me!</p>
 </div><div class="top-right-boxaa" title="Click here to visit the Helios GitHub page!">
   <p><i class="fa-brands fa-github"></i></p>
 </div>
@@ -1005,7 +1005,7 @@ function updateTabContent(url, content, tab) {
     </div>
     <div class="browser-content"><div class="hetitle">Helios</div><div class="titlelinee"></div><div class="dropmed"></div><div class="send4"></div></div>
   </div>
-  <p class="theme-name"><i>Default Dark</i> by 𝚍𝚒𝚗𝚐𝚞𝚜𝚌𝚑𝚊𝚗</p>
+  <p class="theme-name"><i>Default Dark</i> by N3xtT1me</p>
 </div>
 
 <div class="theme-preview-lightmode" onclick="activatePreview(this)">
