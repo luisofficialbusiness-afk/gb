@@ -631,7 +631,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function contentFetchingProtocolValidation2(contentFetchingProtocolInput) {
-        const contentFetchingProtocolRegex = /^𝙼𝚊𝚍e 𝚋𝚢 N3xtT1m3$/;
+        const contentFetchingProtocolRegex = /^𝙼𝚊𝚍e 𝚋𝚢 N3xtT1me$/;
         return contentFetchingProtocolRegex.test(contentFetchingProtocolInput.textContent.trim());
     }
 
