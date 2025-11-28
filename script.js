@@ -135,7 +135,7 @@ function createCenterSitechecker() {
             // Add visit button functionality
             const visitButton = centerSitecheckerContainer.querySelector(".sitechecker-visit");
             visitButton.addEventListener("click", function() {
-                window.open("https://github.com/nautilus-os/NautilusOS", "_blank");
+                window.open("https://discord.gg/UzsCdEVKWb", "_blank");
                 centerSitecheckerContainer.style.display = "none";
                 backdrop.style.display = "none";
                 // Show the original sitechecker after closing the popup
