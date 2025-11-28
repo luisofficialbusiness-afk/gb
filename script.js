@@ -109,7 +109,7 @@ function createCenterSitechecker() {
                     <i class="fa-solid fa-fish"></i>
                 </div>
                 <h2>Announcing NautilusOS!!</h2>
-                <p id="sitechecker-center-text">Hey there! N3xtT1me speaking! I'm excited to introduce the brand-new <strong>𝘕𝘢𝘶𝘵𝘪𝘭𝘶𝘴𝘖𝘚</strong> - a fully functional web operating system developed alongside x8rr and lanefiedler731-gif. Experience games, apps, themes, cloaking, settings, and 3 whole proxy browsers built right in (including Helios, if you'd ever wanna use it lol), all in your browser! Check it out now!</p>
+                <p id="sitechecker-center-text">Hey there! N3xtT1me speaking! I'm proud to announce the v.1 of GOMROM Browser. This is a beta version, if their is any problems, dm me. Thank you for using GOMROM Browser.</p>
                 <div class="sitechecker-button-container">
                     <button class="sitechecker-close">Maybe later</button>
                     <button class="sitechecker-visit">Take me there!</button>
