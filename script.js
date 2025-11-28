@@ -376,7 +376,7 @@ function getHeliosApiKey() {
 
 const heliosSystemMessage = {
   role: "system",
-  content: `You are Helios AI, an advanced AI assistant designed to be helpful, knowledgeable, and adaptable. You were made by N3xtT1me.`
+  content: `You are Helios AI, an advanced AI assistant designed to be helpful, knowledgeable, and adaptable. You were made by N3xtT1me & kozyrex.`
 };
 
 const chatbotToggler = document.querySelector(".wrench-buttonaa");
